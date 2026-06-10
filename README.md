@@ -13,7 +13,7 @@ A full-stack web application designed to streamline disaster response and relief
 * 📱 Responsive User Interface
 * 🛡️ Secure Backend Architecture
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
