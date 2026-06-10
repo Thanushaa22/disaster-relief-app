@@ -97,16 +97,6 @@ npm run dev
 * AI-Based Disaster Prediction
 * Interactive Maps Integration
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Login Page
-* Registration Page
-* Dashboard
-* Relief Request Form
-* Admin Panel
-
 ## 👩‍💻 Author
 
 **Thanusha**
